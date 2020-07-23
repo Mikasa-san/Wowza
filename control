@@ -1,0 +1,9 @@
+Package: com.mikasa.wowza
+Name: Wowza
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable Apple Battery Icon
+Maintainer: Mikasa
+Author: Mikasa
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
